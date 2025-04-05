@@ -1,5 +1,8 @@
-## Hi there 👋
+Alô Galera! ⚡
 
+. Quality Assurance <br>
+. pós-graduando em Automação de Testes <br>
+. **Playwright**
 <!--
 **JadsonCardoso/JadsonCardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
