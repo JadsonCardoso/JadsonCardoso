@@ -9,7 +9,7 @@ Alô Galera! ⚡
 - 🧪 Automação: Selenium, Cypress, Playwright
 - 📜 Linguagens: JavaScript, Ruby
 - 🔧 Ferramentas: Postman, Git, Jenkins, Jira. 
-
+- Pós-graduando em Automação de Testes
 <!--
 **JadsonCardoso/JadsonCardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
