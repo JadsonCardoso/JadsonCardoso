@@ -6,7 +6,7 @@ Alô Galera! ⚡
 
 ## 🚀 Skills & Ferramentas
 - ✅ Testes: Testes funcionais, regressivos, exploratórios
-- 🧪 Automação: Selenium, Cypress, Playwright
+- 🧪 Automação: Selenium, Cypress, Playwright 
 - 📜 Linguagens: JavaScript, Ruby
 - 🔧 Ferramentas: Postman, Git, Jenkins, Jira. 
 - Pós-graduando em Automação de Testes
