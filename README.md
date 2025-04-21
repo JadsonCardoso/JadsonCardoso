@@ -1,8 +1,15 @@
 Alô Galera! ⚡
+# 👋 Olá, eu sou Jadson Cardoso  
+### 💻 QA Tester | Automação | Testes Manuais |
 
-. Quality Assurance <br>
-. pós-graduando em Automação de Testes <br>
-. **Playwright**
+🔍 Apaixonado por qualidade de software e por garantir que cada funcionalidade entregue agregue valor real ao usuário.
+
+## 🚀 Skills & Ferramentas
+- ✅ Testes: Testes funcionais, regressivos, exploratórios
+- 🧪 Automação: Selenium, Cypress, Playwright
+- 📜 Linguagens: JavaScript, Ruby
+- 🔧 Ferramentas: Postman, Git, Jenkins, Jira. 
+
 <!--
 **JadsonCardoso/JadsonCardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
